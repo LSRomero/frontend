@@ -1,2 +1,6 @@
-# frontend
-Some studies in frontend 
+# FrontEnd
+Some studies in frontend:
+- HTML index;
+- Lists;
+- Form;
+- Style in CSS.
