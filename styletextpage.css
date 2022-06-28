@@ -1,0 +1,55 @@
+html {
+	margin: 0;
+	padding: 0;
+	font-size: 15px;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+header {
+    padding: 30px;
+    text-align: center;
+    font-size: 30px;
+    color: whitesmoke;
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(100,130,159,1) 0%, rgba(103,56,96,1) 90% );
+}
+
+div {
+    margin: 40px auto;
+}
+
+#texto {
+    width: 60%;
+    text-align: justify;
+    line-height: 1.6;
+}
+
+#convite {
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
+
+#cafezin {
+    background-color: brown;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+#cafezin img {
+    width: 100%;
+    height: auto;
+}
+
+footer {
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(100,130,159,1) 0%, rgba(103,56,96,1) 90% );
+    color: whitesmoke;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+
+}
